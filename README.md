@@ -26,3 +26,5 @@ You can easily apply for any job on our [Community Discord Server!](https://disc
 Creating features for ScratchTools is very easy, and we even teach people how to code them on our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ)
 ### About Features
 ScratchTools features are anything that manipulate (or change) Scratch to make it easier or better for certain users. The more users that the feature is helpful for, the more likely it is to be accepted.
+### Creation
+To completely create a feature, you'll need to know JavaScript. You'll most likely also need to know DOM. To learn DOM, you can learn it [here](https://www.w3schools.com/js/js_htmldom.asp) or [we can teach you.](https://discord.gg/rwAs5jDrTQ) If you're ready to continue past this step, then it's time to head over to [our repository.](https://github.com/rgantzosonscratch/ScratchTools/)
