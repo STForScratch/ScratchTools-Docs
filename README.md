@@ -84,7 +84,7 @@ At the end of the list of CSS files, add this: `/features/your file name`. It sh
 {
     "matches": ["https://scratch.mit.edu/*"],
     "all_frames": true,
-    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js", "/features/example.js"],
+    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js"],
     "css": ["example.css"],
     "run_at": "document_end"
 }
