@@ -95,3 +95,7 @@ Nice job! You're almost done! Head over to the [pull requests section of the ori
 
 ## Beta Testing
 We have a large beta program, and we're constantly accepting more people to join. There isn't much of a hiring process, you can just join from our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ) Once you've joined the beta program, you'll get special alerts for new versions in preparation and you'll get early access to new features so that you can test them. If you find a bug, it's easy to report it, and you'll learn how! You get prizes and credit for bugs that you find and are accepted.
+
+# FAQ
+#### Is ScratchTools available on Firefox?
+Yes, ScratchTools is on Firefox. You can download it [here.](https://addons.mozilla.org/en-US/firefox/addon/scratchtools-for-scratch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
