@@ -1,2 +1,2 @@
-# ScratchTools-Docs
-The official docs website for ScratchTools.
+# ScratchTools Docs
+These are the **Official** docs for the ScratchTools extension for Scratch.
