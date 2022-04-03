@@ -28,3 +28,7 @@ Creating features for ScratchTools is very easy, and we even teach people how to
 ScratchTools features are anything that manipulate (or change) Scratch to make it easier or better for certain users. The more users that the feature is helpful for, the more likely it is to be accepted.
 ### Creation
 To completely create a feature, you'll need to know JavaScript. You'll most likely also need to know DOM. To learn DOM, you can learn it [here](https://www.w3schools.com/js/js_htmldom.asp) or [we can teach you.](https://discord.gg/rwAs5jDrTQ) If you're ready to continue past this step, then it's time to head over to [our repository.](https://github.com/rgantzosonscratch/ScratchTools/)
+### Forking
+To start building your feature, head over to [our repository.](https://github.com/rgantzosonscratch/ScratchTools/) In the top right corner (adjacent to the repository title) you'll see multiple buttons. You're going to fork the repository.
+### Coding
+Now it's time for you to start coding your feature. But wait! There are still some formatting rules when you create your feature. In your fork, you'll see a few folders and a few separate files. You're only going to deal the folder titled "features" for now. You're going to open up that folder, and add a new file. That file will hold all the code for your feature.
