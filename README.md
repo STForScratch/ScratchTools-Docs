@@ -97,5 +97,20 @@ Nice job! You're almost done! Head over to the [pull requests section of the ori
 We have a large beta program, and we're constantly accepting more people to join. There isn't much of a hiring process, you can just join from our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ) Once you've joined the beta program, you'll get special alerts for new versions in preparation and you'll get early access to new features so that you can test them. If you find a bug, it's easy to report it, and you'll learn how! You get prizes and credit for bugs that you find and are accepted.
 
 # FAQ
-#### Is ScratchTools available on Firefox?
+## Is ScratchTools available on Firefox?
 Yes, ScratchTools is on Firefox. You can download it [here.](https://addons.mozilla.org/en-US/firefox/addon/scratchtools-for-scratch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+## Is ScratchTools affiliated with Scratch?
+No, ScratchTools is in no way affiliated with Scratch. We are completely different organizations. ScratchTools is only an extension that supports Scratch.
+
+## Are ScratchTools and Scratch Addons the same thing?
+No, ScratchTools and Scratch Addons are separate extensions with different creators. There are some developers that are mutual, and who work for both ScratchTools and SA.
+
+## Does ScratchTools cost money?
+No, ScratchTools is 100% free and will never ask you for payment information. ScratchTools is easy to use, and without any cost.
+
+## Can I help ScratchTools?
+Yes, you absolutely can help ScratchTools! Go [here](https://rgantzosonscratch.github.io/ScratchTools-Docs/#/?id=how-to-help) for more info on how to help! We hope one day you can become a developer with ScratchTools!
+
+## Does ScratchTools have social media?
+Yes, ScratchTools is on [Discord](https://discord.gg/rwAs5jDrTQ), [Twitter](https://twitter.com/ST_ForScratch), and [YouTube!](https://www.youtube.com/channel/UCYZiKwxZ_8gJaMwbxHmP0KA) We frequently post info on our Twitter and YouTube, and everything having to do with ScratchTools usually happens on our Discord.
