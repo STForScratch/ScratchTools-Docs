@@ -73,3 +73,6 @@ At the end of the list of JavaScript files, add this: `/features/your file name`
     "run_at": "document_end"
 }
 ```
+
+### Submitting
+Nice job! You're almost done! Head over to the [pull requests section of the original repository](https://github.com/rgantzosonscratch/ScratchTools/pulls) and create a new pull request. Below where it says "Compare changes", click "compare across forks". Switch the head repository to your fork that you made. Then press "create pull request", and give your pull request a title and a description. Then submit it, and that's it! We'll review it and consider your new feature! We may change a few parts if we accept it.
