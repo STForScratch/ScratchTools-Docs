@@ -11,7 +11,7 @@ You can easily download ScratchTools from 3 different places:
 - [GitHub, from the source](https://github.com/rgantzosonscratch/ScratchTools/)
 
 ## Setting Up
-Once you download ScratchTools, you still get to customize what ScratchTools looks like for you! Go to the [ScratchTools Settings](https://scratch.mit.edu/ScratchTools/] (the page will only show if have ScratchTools downloaded) and then choose which features you want on and off!
+Once you download ScratchTools, you still get to customize what ScratchTools looks like for you! Go to the [ScratchTools Settings](https://scratch.mit.edu/ScratchTools/) (the page will only show if have ScratchTools downloaded) and then choose which features you want on and off!
 
 # Development
 We have a rule when it comes to developing new features for ScratchTools, and it's "the more the merrier"! It's easy to work with ScratchTools, and there's always a job for everyone!
