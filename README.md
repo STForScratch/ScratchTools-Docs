@@ -61,15 +61,31 @@ Awesome! Once you're done, you only have to do one more thing for your feature! 
     "matches": ["https://scratch.mit.edu/*"],
     "all_frames": true,
     "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js"],
+    "css": [],
     "run_at": "document_end"
 }
 ```
+
+#### For JavaScript Features
 At the end of the list of JavaScript files, add this: `/features/your file name`. It should look like this, except example is replaced with the name of your file:
 ```
 {
     "matches": ["https://scratch.mit.edu/*"],
     "all_frames": true,
     "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js", "/features/example.js"],
+    "css": [],
+    "run_at": "document_end"
+}
+```
+
+#### For CSS Features
+At the end of the list of CSS files, add this: `/features/your file name`. It should look like this, except example is replaced with the name of your file:
+```
+{
+    "matches": ["https://scratch.mit.edu/*"],
+    "all_frames": true,
+    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js", "/features/example.js"],
+    "css": ["example.css"],
     "run_at": "document_end"
 }
 ```
