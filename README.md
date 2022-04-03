@@ -21,6 +21,9 @@ If you want a more solid, laid out way to help ScratchTools, then there's also a
 - Artist
 - Press Release (Helps get ScratchTools popular)
 - Website/Other Help
+
 You can easily apply for any job on our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ)
 ## Building a Feature
 Creating features for ScratchTools is very easy, and we even teach people how to code them on our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ)
+### About Features
+ScratchTools features are anything that manipulate (or change) Scratch to make it easier or better for certain users. The more users that the feature is helpful for, the more likely it is to be accepted.
