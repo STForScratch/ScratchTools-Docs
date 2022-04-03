@@ -92,3 +92,6 @@ At the end of the list of CSS files, add this: `/features/your file name`. It sh
 
 ### Submitting
 Nice job! You're almost done! Head over to the [pull requests section of the original repository](https://github.com/rgantzosonscratch/ScratchTools/pulls) and create a new pull request. Below where it says "Compare changes", click "compare across forks". Switch the head repository to your fork that you made. Then press "create pull request", and give your pull request a title and a description. Then submit it, and that's it! We'll review it and consider your new feature! We may change a few parts if we accept it.
+
+## Beta Testing
+We have a large beta program, and we're constantly accepting more people to join. There isn't much of a hiring process, you can just join from our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ) Once you've joined the beta program, you'll get special alerts for new versions in preparation and you'll get early access to new features so that you can test them. If you find a bug, it's easy to report it, and you'll learn how! You get prizes and credit for bugs that you find and are accepted.
