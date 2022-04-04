@@ -96,6 +96,15 @@ Nice job! You're almost done! Head over to the [pull requests section of the ori
 ## Beta Testing
 We have a large beta program, and we're constantly accepting more people to join. There isn't much of a hiring process, you can just join from our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ) Once you've joined the beta program, you'll get special alerts for new versions in preparation and you'll get early access to new features so that you can test them. If you find a bug, it's easy to report it, and you'll learn how! You get prizes and credit for bugs that you find and are accepted.
 
+# Policies
+Here are our policies for ScratchTools, and how we use your data.
+
+## Privacy Policy
+No data is ever used regarding to your Scratch account. We do not deal with the cookies used for signing in and out of Scratch. We only deal with our own cookies. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions.
+
+## Cookie Policy
+We don't usually use cookies, except for when we're forced to. We use cookies for the settings feature, and we use cookies for forum draft features. Other than that, we don't mess with your cookies. We don't look at your authorization cookies, we don't mess with your permissions. We only use our own cookies, nothing important to your Scratch account.
+
 # FAQ
 Here are some frequently asked questions and how ScratchTools answers them:
 
