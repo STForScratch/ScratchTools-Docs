@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](https://ScratchTools-Site.rgantzos.repl.co/logo.png)
 
 # docsify <small>3.5</small>
 
