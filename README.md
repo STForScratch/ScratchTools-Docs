@@ -96,6 +96,12 @@ Nice job! You're almost done! Head over to the [pull requests section of the ori
 ## Beta Testing
 We have a large beta program, and we're constantly accepting more people to join. There isn't much of a hiring process, you can just join from our [Community Discord Server!](https://discord.gg/rwAs5jDrTQ) Once you've joined the beta program, you'll get special alerts for new versions in preparation and you'll get early access to new features so that you can test them. If you find a bug, it's easy to report it, and you'll learn how! You get prizes and credit for bugs that you find and are accepted.
 
+# v2.0 Bug
+Unfortunately, ScratchTools v2.0 was released with a bug that none of the developers of the beta testers found because it was already previously downloaded on their devices. It was a minor storage issue, but major issue for users who didn't have their settings set up yet. For those users, they couldn't see the button to access their settings.
+
+## How to Fix
+**YOU** actually don't have to do anything. The problem fixes itself just by going to the settings page. This problem was already designed to be fixed, but started glitching on the homepage once we added a feature that put the settings button in the footer. So, all you have to do is go [here.](https://scratch.mit.edu/ScratchTools/)
+
 # Policies
 Here are our policies for ScratchTools, and how we use your data.
 
