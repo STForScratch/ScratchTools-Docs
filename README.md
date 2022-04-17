@@ -14,7 +14,7 @@ You can easily download ScratchTools from 3 different places:
 Once you download ScratchTools, you still get to customize what ScratchTools looks like for you! Go to the [ScratchTools Settings](https://scratch.mit.edu/ScratchTools/) (the page will only show if have ScratchTools downloaded) and then choose which features you want on and off!
 
 ## Downloading from the Source
-If you're using Chrome as your browser, then you're going to
+If you're using Chrome as your browser, then you're going to go to chrome://extensions. Once you're there, you'll find a switch in the top right corner that says `Developer Mode`. You're going to turn it on. Then just [download from the source](https://github.com/rgantzosonscratch/ScratchTools/zipball/master) and you'll have a new `.zip` file. Unpack it automatically if your device can, or unpack it [using an online unpacker.](https://extract.me/) Then, back at Chrome's extensions page, click the button in the top right corner that says `Load Unpacked`. Select the folder that came from the `.zip` file you downloaded.
 
 # Development
 We have a rule when it comes to developing new features for ScratchTools, and it's "the more the merrier"! It's easy to work with ScratchTools, and there's always a job for everyone!
