@@ -47,50 +47,16 @@ To start building your feature, head over to [our repository.](https://github.co
 Now it's time for you to start coding your feature. But wait! There are still some formatting rules when you create your feature. In your fork, you'll see a few folders and a few separate files. You're only going to deal the folder titled "features" for now. You're going to open up that folder, and add a new file. That file will hold all the code for your feature. Make sure to name it something that accurately represents what your feature does. Then, add the code for your feature.
 
 ### Adding the Info
-Next, open up the file called features.json inside of your fork. You're going to add the info for your new feature. Below where it says "add new features below here", add your version of the following:
+Next, open up the file called `/features/features.json` inside of your fork. You're going to add the info for your new feature. Below where it says "add new features below here", add your version of the following:
 
 ```
 {
     "title": "this is the title of your feature",
     "description": "describe the feature, what it does, and why it is important",
     "credits": "list each user who helped",
-    "urls": "add a link for each user who helped, in the same order"
+    "urls": "add a link for each user who helped, in the same order",
+    "file": "put the name of the file, but don't include the .js"
 },
-```
-
-Awesome! Once you're done, you only have to do one more thing for your feature! Open up the manifest.json file, and look for this:
-```
-{
-    "matches": ["https://scratch.mit.edu/*"],
-    "all_frames": true,
-    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js"],
-    "css": [],
-    "run_at": "document_end"
-}
-```
-
-#### For JavaScript Features
-At the end of the list of JavaScript files, add this: `/features/your file name`. It should look like this, except example is replaced with the name of your file:
-```
-{
-    "matches": ["https://scratch.mit.edu/*"],
-    "all_frames": true,
-    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js", "/features/example.js"],
-    "css": [],
-    "run_at": "document_end"
-}
-```
-
-#### For CSS Features
-At the end of the list of CSS files, add this: `/features/your file name`. It should look like this, except example is replaced with the name of your file:
-```
-{
-    "matches": ["https://scratch.mit.edu/*"],
-    "all_frames": true,
-    "js": ["/pages/all.js", "/pages/discuss.js" ... "/features/turbowarp-button.js"],
-    "css": ["example.css"],
-    "run_at": "document_end"
-}
 ```
 
 ### Submitting
