@@ -75,10 +75,10 @@ Unfortunately, ScratchTools v2.0 was released with a bug that none of the develo
 Here are our policies for ScratchTools, and how we use your data.
 
 ## Privacy Policy
-No data is ever used regarding to your Scratch account. We do not deal with the cookies used for signing in and out of Scratch. We only deal with our own cookies. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions.
+No data is ever used regarding to your Scratch account. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions.
 
 ## Cookie Policy
-We don't usually use cookies, except for when we're forced to. We use cookies for the settings feature, and we use cookies for forum draft features. Other than that, we don't mess with your cookies. We don't look at your authorization cookies, we don't mess with your permissions. We only use our own cookies, nothing important to your Scratch account.
+We do access your personal cookies for Scratch sometimes, but they are never stored or used outside of Scratch. We only access these cookies to perform actions that would otherwise be difficult to perform. For example, we use the sidebar to access your username and profile picture on any page, that way we can easily put it onto the sidebar.
 
 # FAQ
 Here are some frequently asked questions and how ScratchTools answers them:
