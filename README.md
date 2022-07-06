@@ -53,8 +53,8 @@ Next, open up the file called `/features/features.json` inside of your fork. You
 {
     "title": "this is the title of your feature",
     "description": "describe the feature, what it does, and why it is important",
-    "credits": "list each user who helped",
-    "urls": "add a link for each user who helped, in the same order",
+    "credits": ["user1", "user2"]
+    "urls": ["https://github.com/user1/", "https://scratch.mit.edu/users/user2/"],
     "file": "put the name of the file, but don't include the .js"
 },
 ```
