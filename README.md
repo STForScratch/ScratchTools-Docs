@@ -55,7 +55,9 @@ Next, open up the file called `/features/features.json` inside of your fork. You
     "description": "describe the feature, what it does, and why it is important",
     "credits": ["user1", "user2"]
     "urls": ["https://github.com/user1/", "https://scratch.mit.edu/users/user2/"],
-    "file": "put the name of the file, but don't include the .js"
+    "file": "put the name of the file, but don't include the .js",
+    "tags":["New"],
+    "type":["pick either website, editor, or theme"]
 },
 ```
 
@@ -75,7 +77,7 @@ Unfortunately, ScratchTools v2.0 was released with a bug that none of the develo
 Here are our policies for ScratchTools, and how we use your data.
 
 ## Privacy Policy
-No data is ever used regarding to your Scratch account. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions.
+No data is ever used regarding to your Scratch account, other than us using your session ID to access your username for the sidebar feature. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions. We use APIs from [our website](https://scratchtools.app), [Aviate](https://aviateapp.eu.org), and [Ocular](https://ocular.jeffalo.net), meaning that they can see your IP address.
 
 ## Cookie Policy
 We do access your personal cookies for Scratch sometimes, but they are never stored or used outside of Scratch. We only access these cookies to perform actions that would otherwise be difficult to perform. For example, we use the sidebar to access your username and profile picture on any page, that way we can easily put it onto the sidebar.
