@@ -1,6 +1,3 @@
-# ScratchTools Docs
-These are the **Official** docs for the ScratchTools extension for Scratch.
-
 # Getting Started
 Welcome to ScratchTools! We'll get you started with ScratchTools!
 
@@ -77,7 +74,19 @@ Unfortunately, ScratchTools v2.0 was released with a bug that none of the develo
 Here are our policies for ScratchTools, and how we use your data.
 
 ## Privacy Policy
-No data is ever used regarding to your Scratch account, other than us using your session ID to access your username for the sidebar feature. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions. We use APIs from [our website](https://scratchtools.app), [Aviate](https://aviateapp.eu.org), and [Ocular](https://ocular.jeffalo.net), meaning that they can see your IP address.
+No data is ever used regarding to your Scratch account, other than us using your session ID to access your username for the sidebar feature. We don't perform actions without your permission, such as following other users. We don't like to make those kinds of features, because they have the ability to control your account's actions. We use APIs and images from the following sites:
+- This site (ScratchTools)
+- Aviate
+- Leopardjs
+- Google Fonts
+- GitHub
+- Ibb
+- YTimg
+- Tumblr
+- Tenor
+- Snapcraft
+
+That means that they can see your IP address, whether or not they choose to use it. All of them are well-known, commonly-used websites.
 
 ## Cookie Policy
 We do access your personal cookies for Scratch sometimes, but they are never stored or used outside of Scratch. We only access these cookies to perform actions that would otherwise be difficult to perform. For example, we use the sidebar to access your username and profile picture on any page, that way we can easily put it onto the sidebar.
